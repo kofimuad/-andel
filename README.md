@@ -1,5 +1,2 @@
-# THE FIRST REPO
+# THE FIRST REPOSIT
 This is the first repository that I created.
-
-## A sub heading for me
-So I would start programming now.
